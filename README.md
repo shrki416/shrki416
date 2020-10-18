@@ -45,4 +45,4 @@
 [website]: https://aa-dev.io
 [twitter]: https://twitter.com/shrki416
 [instagram]: https://instagram.com/shrki416
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[linkedin]: https://www.linkedin.com/in/aa-dev/
