@@ -7,7 +7,7 @@
 ## I'm a Developer who is passionate about learning and building software
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 Always looking to collaborate with others
 - 💻 2020 Goals: Contribute to Open Source projects
 - ✈️ Fun fact: I love to travel, swim and run
 
