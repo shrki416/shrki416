@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm 🌟 Ahmed 🌟
+### 👋 Hi there, I'm Ahmed
 
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Faa-dev.io)](https://aa-dev.io) -->
 
