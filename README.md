@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 Always looking to collaborate with others
-- 💻 2020 Goals: Contribute to Open Source projects
+- 💻 2021 Goals: Contribute to Open Source projects
 - ✈️ Fun fact: I love to travel, swim and run
 
 <!-- ### Spotify Playing 🎧
