@@ -1,19 +1,11 @@
 ### 👋 Hi there, I'm Ahmed
 
-<!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Faa-dev.io)](https://aa-dev.io) -->
-
-<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
-
 ## I'm a Developer who is passionate about learning and building software
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 Always looking to collaborate with others
 - 💻 2021 Goals: Contribute to Open Source projects
 - ✈️ Fun fact: I love to travel, swim and run
-
-<!-- ### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b) -->
 
 ### Connect with me:
 
