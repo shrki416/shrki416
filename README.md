@@ -5,7 +5,7 @@
 - 🌱 I’m currently NextJS | TypeScript
 - 👯 Always looking to collaborate with others
 - 💻 2022 Goals: Contribute to more Open Source projects
-- ✈️ Fun fact: I love to travel, 🏊‍♂️ swim and 🏃‍♂️ run
+- ✈️ Fun fact: I love to travel, 🪵 woodworking, 🏊‍♂️ swim and 🏃‍♂️ run
 
 ### Connect with me:
 
