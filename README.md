@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Ahmed
 
-## I'm a Developer who is passionate about learning and building software
+## FrontEnd Developer
 
 - 🌱 I’m currently NextJS | TypeScript
 - 👯 Always looking to collaborate with others
