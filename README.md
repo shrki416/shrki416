@@ -2,7 +2,7 @@
 
 ## I'm a Developer who is passionate about learning and building software
 
-- 🌱 I’m currently NextJS | TypeScript
+- 🌱 I’m currently learning NextJS | TypeScript | Prisma
 - 👯 Always looking to collaborate with others
 - 💻 2022 Goals: Contribute to more Open Source projects
 - ✈️ Fun fact: I love to travel, 🪵 woodworking, 🏊‍♂️ swim and 🏃‍♂️ run
